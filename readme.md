@@ -42,7 +42,7 @@ input.onchange = function(e) {
 }
 ```
 
-#### Using `<script src="facer.js"></script>`
+#### Using `<script src="index.js"></script>`
 ``` js
 var input = document.querySelector('input[type=file]')
 
